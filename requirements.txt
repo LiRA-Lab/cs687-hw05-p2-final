@@ -1,0 +1,5 @@
+# Python 3.10 or later is required.
+torch>=2.0
+numpy>=1.24
+pytest>=7.0
+matplotlib>=3.7
